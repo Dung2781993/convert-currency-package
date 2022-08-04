@@ -4,5 +4,15 @@
         "psr-4": {
             "Currency\\Exchange\\": "src/"
         }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "currency\\exchange\\ExchangeProvider"
+            ]
+        }
     }
 }
