@@ -6,6 +6,6 @@
         }
     },
     "require": {
-        "guzzlehttp/guzzle": "7.2.5"
+        "guzzlehttp/guzzle": "7.2"
     }
 }
