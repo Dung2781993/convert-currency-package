@@ -1,0 +1,11 @@
+{
+    "name": "currency/exchange",
+    "autoload": {
+        "psr-4": {
+            "Currency\\Exchange\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "7.2.5"
+    }
+}
