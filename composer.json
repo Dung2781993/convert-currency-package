@@ -4,8 +4,5 @@
         "psr-4": {
             "Currency\\Exchange\\": "src/"
         }
-    },
-    "require": {
-        "guzzlehttp/guzzle": "7.2"
     }
 }
